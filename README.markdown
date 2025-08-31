@@ -1,7 +1,7 @@
-# Coin Frenzy 3D
+# Coin Collection 3D
 
 ## Overview
-Coin Frenzy 3D is a first-person shooter game developed using Python and OpenGL (PyOpenGL with GLUT). Players navigate a 3D arena, collecting coins, shooting enemies, and avoiding damage to survive and progress through levels. The game features a simple yet engaging gameplay loop with player movement, shooting mechanics, enemy AI, and coin collection with an optional magnet power-up.
+Coin Collection 3D is a first-person shooter game developed using Python and OpenGL (PyOpenGL with GLUT). Players navigate a 3D arena, collecting coins, shooting enemies, and avoiding damage to survive and progress through levels. The game features a simple yet engaging gameplay loop with player movement, shooting mechanics, enemy AI, and coin collection with an optional magnet power-up.
 
 ## Features
 - **Player Mechanics**: Move using WASD keys, rotate view with Q/E keys, and shoot bullets with the left mouse button.
